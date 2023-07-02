@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.foxsterdev.sktools": "https://github.com/FoxsterDev/SKUnityPackages.git?path=Assets/SKTools",
+    "com.foxsterdev.sktools": "https://github.com/FoxsterDev/SKUnityPackages.git?path=Assets/SKTools#675345929c1f25bb6ec039a17e862c42b3823b75",
     "com.unity.2d.animation": "5.2.6",
     "com.unity.2d.pixel-perfect": "4.0.1",
     "com.unity.2d.psdimporter": "4.3.1",
