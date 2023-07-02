@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.foxsterdev.sktools": {
+      "version": "https://github.com/FoxsterDev/SKUnityPackages.git?path=Assets/SKTools",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4e5c2405051f0a9e5cec9dc7d2cb9e3318d527c5"
+    },
     "com.unity.2d.animation": {
       "version": "5.2.6",
       "depth": 0,
